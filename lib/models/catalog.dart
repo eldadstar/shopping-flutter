@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:flutter/src/painting/text_style.dart';
 
 class CatalogModel {
   static List<Item> items = [];
