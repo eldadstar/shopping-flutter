@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": "Codepur001",
+            "id": 1,
             "name": "iphone 12 pro",
             "desc": "Apple iphone 12th generation",
             "price": 999,
@@ -9,7 +9,7 @@
             "image": "https://www.mytrendyphone.eu/images/iPhone-12-Pro-Max-128GB-Graphite-0194252021200-25102020-1-p.jpg"
         },
         {
-            "id": "Codepur002",
+            "id": 2,
             "name": "iphone 11 pro",
             "desc": "Apple iphone 11th generation",
             "price": 809,
@@ -17,7 +17,7 @@
             "image": "https://cdn.vox-cdn.com/thumbor/nCf9W4NdCf3O2ZbNVjPcip6rtSQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/65225607/akrales_190913_3666_0391.21.jpg"
         },
         {
-            "id": "Codepur003",
+            "id": 3,
             "name": "ipad 2021 pro",
             "desc": "ipad pro",
             "price": 289,
@@ -25,7 +25,7 @@
             "image": "https://www.xda-developers.com/files/2021/04/apple_ipad-pro-spring21_hero_04202021_big.jpg.large_.jpg"
         },
         {
-            "id": "Codepur004",
+            "id": 4,
             "name": "MotorBike",
             "desc": " AlibabaVimode Moto Bike E-scooter 72v",
             "price": 1799,
@@ -33,7 +33,7 @@
             "image": "https://sc04.alicdn.com/kf/H52474012fad44dc3bac4eea8840bf331s.jpg"
         },
         {
-            "id": "Codepur005",
+            "id": 5,
             "name": "tesla car",
             "desc": "CNET Tesla Model X vulnerable to Bluetooth hack ",
             "price": 9000,
@@ -41,7 +41,7 @@
             "image": "https://www.cnet.com/a/img/6u2kmEm0RJUfcSgupFaBkEsKeK4=/940x0/2020/02/13/ae1b9b28-ac0f-4b16-90c7-1f232b6633e4/press00-model-x-rear-three-quarter-with-doors-open.jpg"
         },
         {
-            "id": "Codepur006",
+            "id": 6,
             "name": "samsung S12",
             "desc": "Samsung 12th generation",
             "price": 899,
@@ -49,7 +49,7 @@
             "image": "https://bestmobile24.com/wp-content/uploads/2020/01/Samsung-Galaxy-S12-image.png"
         },
         {
-            "id": "Codepur007",
+            "id": 7,
             "name": "Laptop",
             "desc": "Techinfo360 Microsoft Surface Laptop",
             "price": 1499,
@@ -57,7 +57,7 @@
             "image": "https://techinfo360.com/wp-content/uploads/2021/01/Microsoft-surface-go.jpg"
         },
         {
-            "id": "Codepur008",
+            "id": 8,
             "name": "Gaming Laptop",
             "desc": "Razerblade rtx 3060",
             "price": 2999,
@@ -65,7 +65,7 @@
             "image": "https://www.solutionhow.com/wp-content/uploads/2020/09/fytfu.jpg"
         },
         {
-            "id": "Codepur009",
+            "id": 9,
             "name": "AI Technology",
             "desc": "Robot machine",
             "price": 60,
@@ -73,7 +73,7 @@
             "image": "https://innovationorigins.com/app/uploads/2021/04/technology-4256272_1920-1004x670.jpg"
         },
         {
-            "id": "Codepur0010",
+            "id": 10,
             "name": "Washing machine",
             "desc": "ITW Performance Polymers fully automatic washing machine front",
             "price": 999,
